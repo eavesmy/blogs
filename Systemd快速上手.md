@@ -27,5 +27,8 @@ Wiki: [https://en.wikipedia.org/wiki/Systemd](https://en.wikipedia.org/wiki/Syst
 [Install]
 ```
 ## 远程
-对，没错，systemctl 可以远程管理进程，```systemctl status [service] -H user@host```,只要user有root权限就可以，当然要保证靶机启动了 sshd 服务。    
+systemctl 可以远程管理进程，```systemctl status [service] -H user@host```,只要user有root权限就可以，当然要保证靶机启动了 sshd 服务。    
 借用 systemctl 可以实现多机器进程的管理，搭个后台做进程管理方便多了。
+
+## 这篇写的详细很多
+[systemctl 命令完全指南](https://blog.csdn.net/moonsheep_liu/article/details/50184255)
