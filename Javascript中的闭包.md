@@ -1,4 +1,4 @@
-# Javascript 中的闭包
+## 例子
 ```
 function A(){
     var _var = "Hello";
