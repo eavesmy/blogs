@@ -31,7 +31,7 @@ PC游戏开发，使用 nodejs 搭建服务器框架及编写功能。接手之�
 * Linux 日常使用，debain系、centos系可以做一些一般的运维工作。
 * Vim 日常使用。
 * Express(nodejs) / Koa(nodejs) / gear(golang) 有实际项目开发经验。
-* git / svn / gitlab / docker 使用经验。
+* git / svn / gitlab / docker / nginx 有使用经验。
 
 ### 语言
 * Golang 日常使用较多，可以进行一般的业务开发。
